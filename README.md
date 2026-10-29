@@ -16,7 +16,7 @@ The focus is Multiple Spanning Tree (MST), including MST region configuration, V
 - **Revision Number:** 5
 ## Network Topology
 
-[MST Lab Topology](https://github.com/BehzadNetLab/CCNA/blob/main/topology/STP.png) ([image](https://github.com/BehzadNetLab/CCNA/raw/main/topology/STP.png))
+
 
 The topology consists of:
 
