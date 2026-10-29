@@ -17,7 +17,7 @@ The focus is Multiple Spanning Tree (MST), including MST region configuration, V
 
 ## Network Topology
 
-![MST Lab Topology](topology/STP.png)
+![MST Lab Topology](./topology/STP.png)
 
 The topology consists of:
 
