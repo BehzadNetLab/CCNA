@@ -1,2 +1,2 @@
 # CCNA
-STP, PortFast,MST
+SPT MST, PORTFAST
