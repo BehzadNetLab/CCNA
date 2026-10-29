@@ -110,11 +110,11 @@ CCNA/
 
 ### DSW1 — Root Bridge
 
-![DSW1 MST Root Verification](screenshots/DSW1-MST-Root.png)
+![DSW1 MST Root Verification](screenshots/DSW1.png)
 
 ### DSW2 — Secondary Distribution Switch
 
-![DSW2 MST Verification](screenshots/DSW2-MST-Secondary.png)
+![DSW2 MST Verification](screenshots/DSW2.png)
 ## Learning Outcomes
 
 This lab demonstrates practical understanding of MST region consistency, VLAN mapping, bridge priority, root bridge election, and redundant Layer 2 network design.
